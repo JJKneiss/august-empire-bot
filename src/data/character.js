@@ -1,0 +1,36 @@
+let character = {
+    name: '[Insert Name Here]',
+    class: ['Barbarian',
+        'Fighter',
+        'Monk',
+        'Rogue',
+        'Paladin',
+        'Ranger',
+        'Cleric',
+        'Bard',
+        'Sorcerer',
+        'Warlock',
+        'Wizard'
+    ],
+    race: ['Dwarf',
+        'Elf',
+        'Halfling',
+        'Human',
+        'Dragonborn',
+        'Gnome',
+        'Half-Elf',
+        'Half-Orc',
+        'Tiefling'
+    ],
+    alignment: ['Lawful Good',
+        'Neutral Good',
+        'Chaotic Good',
+        'Lawful Neutral',
+        'True Neutral',
+        'Chaotic Neutral',
+        'Lawful Evil',
+        'Nuetral Evil',
+        'Chaotic Evil',
+    ]
+}
+export default character;
